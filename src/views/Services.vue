@@ -6,11 +6,14 @@
         <div class="serv-content">
           <div class="card about-img">
             <div class="box">
-              <img
-                src="http://pulkitsinghdev.tech/kisspng-hackathon-computer-icons-application-programming-i-inquiry-5b2508e4a956a6.8703805515291537646936.png"
-                width="75px"
-                height="70px"
-              />
+              <lord-icon
+                src="https://cdn.lordicon.com/nobciafz.json"
+                trigger="loop"
+                delay="2000"
+                colors="primary:#ed143d,secondary:#ffffff"
+                style="width:200px;height:200px"
+              >
+              </lord-icon>
               <div class="text">Hackathons</div>
               <p>
                 Helping people to get practical experience and knowledge and
@@ -21,11 +24,14 @@
           </div>
           <div class="card about-img">
             <div class="box">
-              <img
-                src="http://pulkitsinghdev.tech/blogging_symbol.png"
-                width="75px"
-                height="70px"
-              />
+              <lord-icon
+                src="https://cdn.lordicon.com/puvaffet.json"
+                trigger="loop"
+                delay="2000"
+                colors="primary:#ed143d,secondary:#ffffff"
+                style="width:200px;height:200px"
+              >
+              </lord-icon>
               <div class="text">Documentation & Blogs</div>
               <p>
                 Writing accessible technical documentation for helping people to
@@ -36,7 +42,14 @@
           </div>
           <div class="card about-img">
             <div class="box">
-              <i class="fas fa-code"></i>
+              <lord-icon
+                src="https://cdn.lordicon.com/dtgezzsi.json"
+                trigger="loop"
+                delay="2000"
+                colors="primary:#ed143d,secondary:#ffffff"
+                style="width:200px;height:200px"
+              >
+              </lord-icon>
               <div class="text">Front End Web Dev + Programming</div>
               <p>
                 Using best practices to build good web designs and creating
@@ -55,11 +68,14 @@
         <div class="serv-content">
           <div class="card about-img">
             <div class="box">
-              <img
-                src="http://pulkitsinghdev.tech/live-stream-icon-online-broadcast-260nw-1696101157-removebg-preview.png"
-                width="75px"
-                height="70px"
-              />
+              <lord-icon
+                src="https://cdn.lordicon.com/soseozvi.json"
+                trigger="loop"
+                delay="2000"
+                colors="primary:#ed143d,secondary:#ffffff"
+                style="width:200px;height:200px"
+              >
+              </lord-icon>
               <div class="text">Events/Live Streams/Video</div>
               <p>
                 Creating video content for sharing my knowledge in the community
@@ -70,30 +86,31 @@
           </div>
           <div class="card about-img">
             <div class="box">
-              <img
-                src="http://pulkitsinghdev.tech/community_symbol-removebg-preview.png"
-                width="75px"
-                height="70px"
-              />
+              <lord-icon
+                src="https://cdn.lordicon.com/qhgmphtg.json"
+                trigger="loop"
+                delay="2000"
+                colors="primary:#ed143d,secondary:#ffffff"
+                style="width:200px;height:200px"
+              >
+              </lord-icon>
               <div class="text">Communities</div>
               <p>
                 Helping people through various communities by giving talks,
                 mentoring, volunteering and even helping others to organise one
-                (
-                <a href="https://www.pugroups.in"
-                  >check out my community here</a
-                >
-                )
               </p>
             </div>
           </div>
           <div class="card about-img">
             <div class="box">
-              <img
-                src="http://pulkitsinghdev.tech/opensource_symbol.png"
-                width="75px"
-                height="70px"
-              />
+              <lord-icon
+                src="https://cdn.lordicon.com/ybfcwnqv.json"
+                trigger="loop"
+                delay="2000"
+                colors="primary:#ed143d,secondary:#ffffff"
+                style="width:200px;height:200px"
+              >
+              </lord-icon>
               <div class="text">Open Source (Git + Github)</div>
               <p>
                 Contributing in opensource by making my projects, documentatins,
